@@ -60,11 +60,13 @@ All software and latest firmware/driver can be found at [Download Center](https:
 ---
 
 ## 🌟 Popular Repositories
-| Repository          | Description                                                                                |
-|---------------------|--------------------------------------------------------------------------------------------|
-| 🧠 ROS Repositories | [ROS2_WLKATA](https://github.com/wlkata/ROS2_WLKATA)                                       |
-| 🐍 Python SDKs      | [WLKATA-Python-SDK-wlkatapython](https://github.com/wlkata/WLKATA-Python-SDK-wlkatapython) |
-| 🤖 Machine Learning | [wlkatapython-extensions](https://github.com/wlkata/wlkatapython-extensions)               |
-
+|                  | Repository                                                                                 |
+|------------------|--------------------------------------------------------------------------------------------|
+| Arduino Library  | [wlkata-Arduino-MEGA-2560](https://github.com/wlkata/wlkata-Arduino-MEGA-2560)             |
+| C Library        | [WlkataC](https://github.com/wlkata/WlkataC)                                               |
+| Python SDKs      | [WLKATA-Python-SDK-wlkatapython](https://github.com/wlkata/WLKATA-Python-SDK-wlkatapython) |
+| Microbit Library | [wlkata_micro_bit](https://github.com/wlkata/wlkata_micro_bit)                             |
+| ROS Repositories | [ROS2_WLKATA](https://github.com/wlkata/ROS2_WLKATA)                                       |
+| Machine Learning | [wlkatapython-extensions](https://github.com/wlkata/wlkatapython-extensions)               |
 
 ---
