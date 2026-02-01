@@ -68,7 +68,7 @@ All software and latest firmware/driver can be found at [Download Center](https:
 | Microbit Library | [wlkata_micro_bit](https://github.com/wlkata/wlkata_micro_bit)                             |
 | ROS Repositories | [ROS2_WLKATA](https://github.com/wlkata/ROS2_WLKATA)                                       |
 | ROS Repositories | [ROS2_Mirobot](https://github.com/Eagle-Creative/ROS2-Jazzy-Mirobot-Interface)             |
-| MT4 Model        | [step and stl file](https://github.com/wlkata/MT4-STL)                                     |  
+| MT4 Model        | [STEP and STL file](https://github.com/wlkata/MT4-STL)                                     |  
 | Machine Learning | [wlkatapython-extensions](https://github.com/wlkata/wlkatapython-extensions)               |
 
 ---
