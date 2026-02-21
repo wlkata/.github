@@ -42,7 +42,7 @@ We create **advanced**, **user-friendly**, and **DIY-ready** solutions tailored 
 ## ⚙️ Products  
 - [**Mirobot**](https://www.wlkata.com/products/wlkata-best-6-axis-stem-educational-robot-arm-kit) – 6DOF Educational Robotic Arm  
 - [**MT4 🆕**](https://www.wlkata.com/products/wlkata-mt4-essential-kit-metal-4-axis-robotic-arm-reverse-engineering-made-easy) – High-Performance, Rebuildable Metal Arm  
-- [**Haro380 🔜**](https://www.indiegogo.com/projects/haro380#/) – Mini Industrial 6DOF System
+- [**Haro380 🆕**](https://www.wlkata.com/products/wlkata-haro380-edu-kit-coming-soon) – Mini Industrial Grade 6DOF System
 - [**MarchX**](https://www.wlkata.com/products/marchx-pro-lidar-ai-kit-wlkata-quadruped-l-robot-sim2real-remote-control-depth-camera-lidar-ai-function-sdk-reinforcement-learning) - Quadruped Robotic Dog
 - [**BRAVE**](https://www.wlkata.com/products/brave-edu-kit-biped-robot-three-multi-modal-point-foot-wheeled-sole-modal-rgbd-camera-sdk-openapi-sim2real-ai-robotics-humanoid-research-platform) - Biped Robot
 
