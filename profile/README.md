@@ -60,16 +60,21 @@ All software and latest firmware/driver can be found at [Download Center](https:
 ---
 
 ## 🌟 Popular Repositories
+
 |                  | Repository                                                                                 |
-|------------------|--------------------------------------------------------------------------------------------|
+| ---------------- | ------------------------------------------------------------------------------------------ |
 | Arduino Library  | [wlkata-Arduino-MEGA-2560](https://github.com/wlkata/wlkata-Arduino-MEGA-2560)             |
 | C Library        | [WlkataC](https://github.com/wlkata/WlkataC)                                               |
 | Python SDKs      | [WLKATA-Python-SDK-wlkatapython](https://github.com/wlkata/WLKATA-Python-SDK-wlkatapython) |
 | Microbit Library | [wlkata_micro_bit](https://github.com/wlkata/wlkata_micro_bit)                             |
-| ROS Repositories | [ROS2_WLKATA](https://github.com/wlkata/ROS2_WLKATA)                                       |
-| ROS Repositories | [ROS2_Mirobot](https://github.com/Eagle-Creative/ROS2-Jazzy-Mirobot-Interface)             |
-| Haro380 Model    | [STEP and STL file](https://github.com/WLKATA/Haro380-STL)                        |  
-| MT4 Model        | [STEP and STL file](https://github.com/wlkata/MT4-STL)                                     |  
 | Machine Learning | [wlkatapython-extensions](https://github.com/wlkata/wlkatapython-extensions)               |
+
+## 🤖 ROS2 & Models
+
+| Arm     | ROS2 Repository                                                      | 3D Model                                             |
+| ------- | -------------------------------------------------------------------- | ---------------------------------------------------- |
+| MT4     | [Wlkata_MT4_ROS2](https://github.com/wlkata/Wlkata_MT4_ROS2)         | [MT4 STL](https://github.com/wlkata/MT4-STL)         |
+| Mirobot | [Wlkata_Mirobot_Ros2](https://github.com/wlkata/Wlkata_Mirobot_Ros2) | —                                                    |
+| Haro380 | [Wlkata_Haro380_Ros2](https://github.com/wlkata/Wlkata_Haro380_Ros2) | [Haro380 STL](https://github.com/WLKATA/Haro380-STL) |
 
 ---
