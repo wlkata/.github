@@ -74,7 +74,7 @@ All software and latest firmware/driver can be found at [Download Center](https:
 | Arm     | ROS2 Repository                                                      | 3D Model                                             |
 | ------- | -------------------------------------------------------------------- | ---------------------------------------------------- |
 | MT4     | [Wlkata_MT4_ROS2](https://github.com/wlkata/Wlkata_MT4_ROS2)         | [MT4 STL](https://github.com/wlkata/MT4-STL)         |
-| Mirobot | [Wlkata_Mirobot_Ros2](https://github.com/wlkata/Wlkata_Mirobot_Ros2) | —                                                    |
+| Mirobot | [Wlkata_Mirobot_Ros2](https://github.com/wlkata/Wlkata_Mirobot_Ros2) | [Mirobot STL](https://github.com/wlkata/Mirobot-STL) |
 | Haro380 | [Wlkata_Haro380_Ros2](https://github.com/wlkata/Wlkata_Haro380_Ros2) | [Haro380 STL](https://github.com/WLKATA/Haro380-STL) |
 
 ---
