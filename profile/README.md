@@ -77,4 +77,17 @@ All software and latest firmware/driver can be found at [Download Center](https:
 | Mirobot | [Wlkata_Mirobot_Ros2](https://github.com/wlkata/Wlkata_Mirobot_Ros2) | [Mirobot STL](https://github.com/wlkata/Mirobot-STL) |
 | Haro380 | [Wlkata_Haro380_Ros2](https://github.com/wlkata/Wlkata_Haro380_Ros2) | [Haro380 STL](https://github.com/WLKATA/Haro380-STL) |
 
+## 🚀 BRAVE Repositories
+
+| Repository                                                                 | Description                                                                                                                          |
+| -------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| [brave-rl-isaaclab](https://github.com/wlkata/brave-rl-isaaclab)           | External extension template based on Isaac Lab.                                                                                      |
+| [brave-rl-isaacgym](https://github.com/wlkata/brave-rl-isaacgym)           | Isaac Gym environments for legged robots.                                                                                            |
+| [brave-rl-deploy-ros](https://github.com/wlkata/brave-rl-deploy-ros)       | Reinforcement learning deployment framework based on ROS1 for quickly deploying trained models.                                      |
+| [brave-rl-deploy-ros2](https://github.com/wlkata/brave-rl-deploy-ros2)     | Reinforcement learning deployment framework based on ROS2 for quickly deploying trained models.                                      |
+| [brave-rl-deploy-python](https://github.com/wlkata/brave-rl-deploy-python) | Reinforcement learning deployment algorithm that leverages Python to streamline deployment of trained models.                        |
+| [brave-gazebo-ros](https://github.com/wlkata/brave-gazebo-ros)             | ROS1-based simulation tool for the WLKATA BRAVE robot that supports quick Sim-to-Real validation and deployment of robot algorithms. |
+| [brave-gazebo-ros2](https://github.com/wlkata/brave-gazebo-ros2)           | ROS2-based simulation tool for the WLKATA BRAVE robot that supports quick Sim-to-Real validation and deployment of robot algorithms. |
+| [brave-mujoco-sim](https://github.com/wlkata/brave-mujoco-sim)             | MuJoCo simulation tool for the WLKATA BRAVE robot that supports quick Sim-to-Real validation and deployment of robot algorithms.     |
+
 ---
